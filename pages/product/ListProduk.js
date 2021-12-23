@@ -12,7 +12,7 @@ export default function ListProduk(){
                    Produk
                </h1>
                <p className="italic text-white text-center mt-5">
-                    " Pilary Menyediakan Berbagai Produk Berupa Sistem Aplikasi dalam 
+                    Pilary Menyediakan Berbagai Produk Berupa Sistem Aplikasi dalam 
                </p>
                <p className="italic text-white text-center">
                     bentuk web, mobile, maupun desktop yang bisa 
@@ -20,7 +20,7 @@ export default function ListProduk(){
                </p>
                <p className="italic text-white text-center">
                     dengan fungsionalitas aplikasi yang sangat mendukung 
-                    di berbagai macam sektor, misalnya pendidikan, pemerintahan, dll."
+                    di berbagai macam sektor, misalnya pendidikan, pemerintahan, dll.
                </p>
             </div>
 
